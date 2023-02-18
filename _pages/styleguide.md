@@ -1,68 +1,68 @@
 ---
 layout: page
-title: Style Guide
+title: 样式指南
 permalink: /styleguide/
 image: 08.jpg
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+这里是一段文字，很长很长的………………………………………………………………………………………………………………………………………………
 
 ***
 
-### Headings by default:
+### 默认标题:
 
-# This is the default title
-## This is the default title
-### This is the default title
-#### This is the default title
-##### This is the default title
-###### This is the default title
+# 这是默认标题
+## 这是默认标题
+### 这是默认标题
+#### 这是默认标题
+##### 这是默认标题
+###### 这是默认标题
 
 {% highlight markdown %}
-## Heading first level
-### Heading second level
-#### Heading third level
+## 一级标题
+### 二级标题
+#### 三级标题
 {% endhighlight %}
 
 ***
 
-### Lists
+### 列表  
 
-#### Ordered list example:
+#### 有序列表示例:
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
+1. 这是第一段话。
+2. 这是第二段话。
+3. 这是第三段话。
+4. 这是第四段话。
+5. 这是第五段话。
 
 ***
 
-#### Unordered list example:
+#### 无序列表示例:
 
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
+* 这是第一段话。
+* 这是第二段话。
+* 这是第三段话。
+* 这是第四段话。
+* 这是第五段话。
 
 {% highlight markdown %}
-1. Order list item 1
-2. Order list item 1
+1. 订单列表项目 1
+2. 订单列表项目 1
 
-* Unordered list item 1
-* Unordered list item 2
+* 未排序列表项目 1
+* 未排序列表项目 2
 {% endhighlight %}
 
 ***
 
-### Quotes
+### 引用
 
-> Coming together is a beginning; keeping together is progress; working together is success. — Edward Everett Hale
+> 这里是名言警句
 
 ***
 
-### Syntax Highlighter
+### 语法 标记
 
 {% highlight js %}
   $('.top').click(function () {
@@ -79,13 +79,13 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-### Videos
+### 视频
 
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
-
+<iframe src="https://haokan.baidu.com/v?vid=8116644409163308989&" frameborder="0" allowfullscreen></iframe>
+    
 ***
 
-### Images
+### 图片
 
 ![]({{site.baseurl}}/images/09.jpg)
 *Backyard*
