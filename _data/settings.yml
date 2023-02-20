@@ -1,22 +1,22 @@
 #-------------------------------
-# General Site Settings
-title: huangpengju
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+# General Site Settings(常规站点设置)
+title: Blog
+logo: tangerine.svg # You can add own logo.您可以添加自己的徽标。
+description: 基本模板快速搭建的个人博客。| Zolan is modern minimal theme for Jekyll
 
 
 #-------------------------------
-# Author Settings
+# Author Settings 作者设置
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
-
+  name: 黄鹏举 
+  image: 001.jpg
+  say-hello: 你好, 我是 <strong>黄鹏举</strong>
+  # bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  bio: 这里是关于我的一些介绍，但是，我还没有想好写什么内容。
 
 #-------------------------------
-# Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
+# Contact links（联系人链接）
+github: https://github.com/huangpengju # Add your Twitter handle
 facebook: https://facebook.com/ # Add your Facebook handle
 dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/ # Add your Instagram handle
@@ -24,8 +24,8 @@ pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+# Comment Section (Disqus)注释部分（Disqus）
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown 添加Disqus Comment的简称。例如布朗先生
 
 
 #-------------------------------
