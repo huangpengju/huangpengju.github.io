@@ -2,7 +2,7 @@
 layout: page
 title: 自我介绍
 permalink: /about/
-image: 01.jpg
+image: 001.jpg
 ---
 
 你好~，我叫黄鹏举。
