@@ -5,13 +5,13 @@
       {% if paginator.previous_page %}
       
       {% if paginator.previous_page == 1 %}
-        <a class="previous-link" href="{{ site.baseurl }}/">上一篇文章</a>
+        <a class="previous-link" href="{{ site.baseurl }}/">上一页</a>
       {% else %}
-        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">上一篇文章</a>
+        <a class="previous-link" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/">上一页</a>
       {% endif %}
       
       {% else %}
-        <span class="disabled">上一篇文章</span>
+        <span class="disabled">上一页</span>
       {% endif %}
 
       <div class="counter-box">
@@ -33,9 +33,9 @@
       </div>
 
       {% if paginator.next_page %}
-      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">下一篇文章</a>
+      <a class="next-link" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/">下一页</a>
       {% else %}
-        <span class="disabled">下一篇文章</span>
+        <span class="disabled">下一页</span>
       {% endif %}
 
 
