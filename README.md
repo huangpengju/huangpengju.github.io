@@ -1,9 +1,10 @@
-
-├── _data
-|   ├──settings.yml (常规站点配置&主页作者信息配置)
-├── _includes
-|   ├── article-content.html (主页文字列表信息配置)
-|   └── 
+### 目录信息
+    
+      ├── _data<br>
+      |   ├──settings.yml (常规站点配置&主页作者信息配置)
+      ├── _includes
+      |   ├── article-content.html (主页文字列表信息配置)
+      |   └── 
 
 
 原始信息如下：
