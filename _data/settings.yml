@@ -9,7 +9,7 @@ description: 基本模板快速搭建的个人博客。| Zolan is modern minimal
 # Author Settings 作者设置
 author:
   name: 黄鹏举 
-  image: 001.jpg
+  image: author/001.jpg
   say-hello: 你好, 我是 <strong>黄鹏举</strong>
   # bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
   bio: 这里是关于我的一些介绍，但是，我还没有想好写什么内容。
