@@ -12,13 +12,13 @@ image: author/001.jpg
 #### 成长中...
 <small>*1995 - 至今*</small>
 
-<b>2007.6 小学毕业</b>
+<b>2007</b> <small>6</small> 小学毕业
  
-<b>2010.6 初中毕业</b>
+<b>2010</b> <small>6</small> 初中毕业
 
-<b>2013.6 高中毕业</b>
+<b>2013</b> <small>6</small> 高中毕业
 
-<b>2017.6 大学毕业</b>
+<b>2017</b> <small>6</small> 大学毕业
 
 <small>*继续努力……*</small>
 
@@ -58,4 +58,4 @@ image: author/001.jpg
 
 <b>2018</b> <small>6</small> 山东（济南） &  陕西（西安）
 
-*以上皆为回忆*
+<small> *以上皆为回忆* </small>
