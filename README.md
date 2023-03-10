@@ -1,13 +1,13 @@
 ### 目录信息
     
-      ├── _data<br>
+      ├── _data
       |   ├──settings.yml (常规站点配置&主页作者信息配置)
       ├── _includes
       |   ├── article-content.html (主页文字列表信息配置)
       |   └── 
 
 
-原始信息如下：
+__原始信息如下：__
 
 Zolan - Modern & Minimal Theme for Jekyll
 ======
