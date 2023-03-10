@@ -1,3 +1,10 @@
+├── _data
+|   ├──settings.yml (常规站点配置&主页作者信息配置)
+├── _includes
+|   ├── article-content.html (主页文字列表信息配置)
+|   └── 
+
+
 Zolan - Modern & Minimal Theme for Jekyll
 ======
 Zolan is a minimal blog theme for Jekyll.
