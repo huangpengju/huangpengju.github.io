@@ -6,8 +6,7 @@
       |   ├── article-content.html (主页文字列表信息配置)
       |   └── 
 
-
-__原始信息如下：__
+### 主题相关信息
 
 Zolan - Modern & Minimal Theme for Jekyll
 ======
