@@ -32,7 +32,37 @@
     .hero__social-title {
       font-weight: 700;
     }
-
+/* 背景颜色和边框 */
+audio {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  }
+  /* 播放器控件 */
+  audio::-webkit-media-controls-panel {
+  background-color: #f8f8f8;
+  color: #333333;
+  }
+  /* 音量控制条 */
+  audio::-webkit-media-controls-volume-slider {
+  background-color: #ccc;
+  }
+  /* 音量控制条中的滑块 */
+  audio::-webkit-media-controls-volume-slider-thumb {
+  background-color: #333;
+  }
+  /* 进度条 */
+  audio::-webkit-media-controls-seek-back-button {
+  background-color: #ccc;
+  }
+  /* 暂停/播放按钮 */
+  audio::-webkit-media-controls-play-button {
+  background-color: #ff5e17;
+  color: #fff;
+  }
+  /* 停止按钮 */
+  audio::-webkit-media-controls-stop-button {
+  background-color: #ccc;
+  }
   }
 
   .hero__image {
