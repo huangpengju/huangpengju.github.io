@@ -7,8 +7,14 @@
           <h1 class="hero__title">{{ site.data.settings.author.say-hello }}</h1>
           <p class="hero__subtitle">{{ site.data.settings.author.bio }}</p>
            <audio controls>
-               <source src="https://aod.cos.tx.xmcdn.com/storages/fe3a-audiofreehighqps/CC/94/GKwRINsITxnuAB8OWgIkWVnQ.m4a" >
+               <source src="{{ site.data.settings.music }}" >
+             浏览器不支持播放音乐
            </audio>
+          <!- 音乐开始 ->
+
+
+
+          <!-- 音乐结束-->
           <div class="hero__social">
             <span class="hero__social-title">联系我 |</span>
             {% include contact-link.html %}
